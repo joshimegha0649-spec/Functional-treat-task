@@ -31,11 +31,11 @@ The Data Analyzer and Transformer Program is a menu-driven Python application th
 
  ## output
 
-![screenshot 2026-11-20](screenshot%2026-11-20%163914.jpg)
-![screenshot 2026-11-20](screenshot%2026-11-20%164010.jpg)
-![screenshot 2026-11-20](screenshot%2026-11-20%164038.jpg)
-![screenshot 2026-11-20](screenshot%2026-11-20%164111.jpg)
-![screenshot 2026-11-20](screenshot%2026-11-20%164238.jpg)
-![screenshot 2026-11-20](screenshot%2026-11-20%164334.jpg)
-![screenshot 2026-11-20](screenshot%2026-11-20%164415.jpg)
+![screenshot 1](screenshot%2026-11-20%163914.jpg)
+![screenshot 2](screenshot%2026-11-20%164010.jpg)
+![screenshot 3](screenshot%2026-11-20%164038.jpg)
+![screenshot 4](screenshot%2026-11-20%164111.jpg)
+![screenshot 5](screenshot%2026-11-20%164238.jpg)
+![screenshot 6](screenshot%2026-11-20%164334.jpg)
+![screenshot 7](screenshot%2026-11-20%164415.jpg)
 
